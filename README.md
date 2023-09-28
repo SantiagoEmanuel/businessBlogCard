@@ -18,4 +18,4 @@
 
 ## Screenshots
 
-![screenshot](?)
+![screenshot](https://github.com/SantiagoEmanuel/businessBlogCard/blob/master/public/screenshot.png)
