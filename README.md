@@ -4,9 +4,9 @@
 
 > ## About
 >
-> - [] Create a card component that matches the given design.
-> - [] Use HTML to create the basic structure
-> - [] Use CSS to style the card
+> - [x] Create a card component that matches the given design.
+> - [x] Use HTML to create the basic structure
+> - [x] Use CSS to style the card
 
 ## Technologies
 
