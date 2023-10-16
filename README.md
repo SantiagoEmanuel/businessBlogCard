@@ -2,6 +2,8 @@
 
 ## Challenge from [devChallenge.io](https://devchallenges.io)
 
+## SOLUTION [WEBSITE](https://businessblogcard.netlify.app/)
+
 > ## About
 >
 > - [x] Create a card component that matches the given design.
